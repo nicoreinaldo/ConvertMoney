@@ -1,0 +1,10 @@
+#parent {
+    display: flex;
+  }
+  #narrow {
+    width: 200px;
+
+  }
+  #wide {
+    margin-right: 60px;
+  }
